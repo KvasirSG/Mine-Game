@@ -8,8 +8,6 @@ School Assignment Mine Game added GUI
 
 - [@Kenneth Heimann](https://www.github.com/KvasirSG)
 
-Based on the provided structure for running a project locally, here's how you might adapt those instructions specifically for the Mine Game Java project described previously. Note that Java projects don't typically use `npm` for dependency management or starting up, as that's more common with Node.js projects. Instead, Java projects are often built and run using tools like Maven or Gradle, or directly through a Java IDE. I'll provide a generic setup that assumes you're using an IDE like IntelliJ IDEA, Eclipse, or NetBeans and that you have Java installed on your system.
-
 ## Run Locally
 
 ### Clone the project
